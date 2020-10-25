@@ -37,4 +37,4 @@ Fare per ride and fare per driver are attractive in this market, and this accoun
 
 While this is a small portion of the business, the fare per ride and fare per driver make this an appealing market, as trips will typically be long. However, results vary substantially week to week, which could make it hard for a driver to stick with us - some weeks they will see little activitiy.
 
-If we could schedule activity on a regular basis, we may be able to stabilize this pattern. For example offer some discount for repeated rides. For allow the customer a 15% discount to prepay for a trip every-other week to the supermarket at a pre-determined time. This would cut in to the fare per ride, but would help smooth out the lulls in demand, and could potentially increase overall PyBer usage.
+If we could schedule activity on a regular basis, we may be able to stabilize this pattern. For example offer some discount for repeated rides,.e.g. a 15% discount to prepay for a trip every-other week to the supermarket at a pre-determined time. This would cut in to the fare per ride, but would help smooth out the lulls in demand, and could potentially increase overall PyBer usage.
