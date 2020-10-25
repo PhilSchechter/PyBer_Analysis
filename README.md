@@ -18,7 +18,7 @@ As seen in the attached chart
 -- average fare per driver
 - Subuarban is significant, has higher per Ride, per Driver fares than urban
 
-[Weekly by Type](Analysis/PyBer_far_summary.PNG)
+[Weekly by Type](Analysis/PyBer_fare_summary.PNG)
 
 Looking at the weekly fares by type, all three markets show peeks and valleys at the same time, and of similar dollar magnitudes, but as a percentage, these are much greater swings for the rural market; e.g. the swing between $100 and $400 is much greater percentage wise than the swing from $2000 to $2300.
 
