@@ -1,13 +1,13 @@
-#PyBer_Analysis, analyis by city type
+# PyBer_Analysis, analyis by city type
 DA course, module 5
 
-##Purpose of this analysis
+## Purpose of this analysis
 
 PyBer operates in 3 types of markets - Urban, Suburban,and Rural. This project looks at some key metrics by market type, to see
 - where should we be allocating resources based on current results
 - are there any initiatives we can take relative to these markets to gain a competitive advantage
 
-##Result highlights
+## Result highlights
 
 [City Type Summary]('Analysis/CityTypeSummary.PNG')
 
@@ -23,17 +23,17 @@ As seen in the attached chart
 Looking at the weekly fares by type, all three markets show peeks and valleys at the same time, and of similar dollar magnitudes, but as a percentage, these are much greater swings for the rural market; e.g. the swing between $100 and $400 is much greater percentage wise than the swing from $2000 to $2300.
 
 
-##Summary - 3 recommendations
+## Summary - 3 recommendations
 
-###Urban Ride Sharing: 
+### Urban Ride Sharing: 
 
 The urban market is out strongest, but the average fare per driver is low - we should take a look and see if that is impacting our driver retention rate. Potential: can we organize multple-person rides, give some discount to the customer for the inconvenience but get a higher overall pay-rate to the driver by driving multiple people at onece.
 
-###Suburban Sweet Spot
+### Suburban Sweet Spot
 
 Fare per ride and fare per driver are attractive in this market, and this accounts for aboiut 30% of our revenue. Would be ideal if we could expand this business without a fundamental strategy change, using targetted advertising.
 
-###Rural Roller Coaster
+### Rural Roller Coaster
 
 While this is a small portion of the business, the fare per ride and fare per driver make this an appealing market, as trips will typically be long. However, results vary substantially week to week, which could make it hard for a driver to stick with us - some weeks they will see little activitiy.
 
